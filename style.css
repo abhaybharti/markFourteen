@@ -1,0 +1,44 @@
+.seperator {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+}
+
+.seperator::before,
+.seperator::after {
+  content: "";
+  flex: 1;
+  border-bottom: 2px solid #000;
+}
+.seperator:not(:empty)::before {
+  margin-right: 0.25em;
+}
+
+.seperator:not(:empty)::after {
+  margin-left: 0.25em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(208, 221, 208);
+  border: 1px solid black;
+  width: 70vw;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+
+.textfield {
+  width: 200px;
+  font-weight: 400;
+}
+
+.font-bold {
+  font-style: bold;
+}
+
+.warning {
+  border: solid 2px #f00;
+}
