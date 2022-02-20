@@ -52,7 +52,7 @@ function calculateProfitOrLoss(purchaseCost, currentCost) {
       textForOutput =
         "Hey, the loss is " +
         profit +
-        "₹ and the profit in percent is " +
+        "₹ and the loss in percent is " +
         profitInPercent +
         "%";
       profitNumbers.style.color = "red";
