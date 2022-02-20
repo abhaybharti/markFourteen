@@ -6,10 +6,10 @@ Built using HTML, JavaScript & CSS.
 
 - Currently for desktop only :)
 
-![Play game screenshot](https://github.com/sarit-chaet-hudis/team-timeout/blob/main/src/Assets/images/Screenshot2.JPG)
-![Create new game screenshot](https://github.com/sarit-chaet-hudis/team-timeout/blob/main/src/Assets/images/Screenshot1.JPG)
-![View highscores screenshot](https://github.com/sarit-chaet-hudis/team-timeout/blob/main/src/Assets/images/Screenshot3.JPG)
-![Team Timout Flowchart](https://github.com/sarit-chaet-hudis/team-timeout/blob/main/src/Assets/images/team%20timeout-general%20flow.jpg)
+![App screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/homepage.png)
+![Loss Screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/loss.png)
+![Profit screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/profit.png)
+![Field Validation](https://github.com/abhaybharti/markFourteen/blob/main/Assets/fieldvalidation.jpeg)
 
 ## App Walkthrough
 
