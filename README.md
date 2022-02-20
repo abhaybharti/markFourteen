@@ -6,10 +6,10 @@ Built using HTML, JavaScript & CSS.
 
 - Currently for desktop only :)
 
-![App screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/homepage.png)
+[App screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/homepage.png)
 ![Loss Screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/loss.png)
 ![Profit screenshot](https://github.com/abhaybharti/markFourteen/blob/main/Assets/profit.png)
-![Field Validation](https://github.com/abhaybharti/markFourteen/blob/main/Assets/fieldvalidation.jpg)
+![Field Validation](https://github.com/abhaybharti/markFourteen/blob/main/Assets/fieldvalidation.png)
 
 ## App Walkthrough
 
